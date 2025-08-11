@@ -1,1 +1,8 @@
-[# restaurant-ui-design-figma](https://www.figma.com/proto/aTiYVsUVWZhsHmH0iaLYBe/Menu-Restaurant-Application?node-id=201-343&p=f&t=cS2UJ3Oc6sykIpYv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+# Restaurant Menu & Reservation App
+
+![Restaurant App Cover](Restaurant%20Cover.jpg)
+
+A modern mobile app concept that allows customers to explore the restaurant’s menu and book tables with ease.  
+The design focuses on a smooth user experience, making it simple to browse dishes, check details, and reserve a spot — all in one place.  
+Created in Figma to showcase an elegant and intuitive interface.
+
